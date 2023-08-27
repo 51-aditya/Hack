@@ -1,0 +1,1 @@
+Name: Aditya, Age: 18, Gender: Male, Duration: 2 days, Symptoms: Body aches, Severity Level: 0.06, Allocated Hospital: Hospital A
